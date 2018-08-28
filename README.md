@@ -10,3 +10,4 @@ HYCUBE GitHub Practice repository of summer 2018 semester.
 | Hyeongchang   | worker1    |     |
 | Gangyeon Lee  | Student    |     |
 | Soonbeom Kwon | student    |     |
+| Onnoo         | Test       |     |
